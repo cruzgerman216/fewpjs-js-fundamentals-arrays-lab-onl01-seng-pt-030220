@@ -1,4 +1,4 @@
 // Write your solution here!
-function append(){
-
+function append(arr){
+  console.log(arr)
 }
